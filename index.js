@@ -1,1 +1,3 @@
-console.log("Hi Mareike!");
+console.log("Hi Michael!");
+
+console.log("Hahahaha");
